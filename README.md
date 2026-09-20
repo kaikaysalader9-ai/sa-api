@@ -18,12 +18,14 @@
 รับพัฒนาซอฟต์แวร์เฉพาะสำหรับธุรกิจ <br />
 
 หมายเหตุ: ระบบสามารถออกแบบ Logic, เงื่อนไขการคำนวณ และรูปแบบการแสดงผลให้เหมาะกับกระบวนการทำงานของแต่ละโครงการ
+<br />
+ช่องทางติดต่อ : https://saapi168.xyz/landing
+
+telegrame: https://t.me/saapi_software
+
 
 <img width="2031" height="994" alt="Screenshot 2569-09-20 at 13 24 09" src="https://github.com/user-attachments/assets/42ddcdd8-e764-495b-9fc0-0b9a94f25fda" />
 <img width="2019" height="993" alt="Screenshot 2569-09-20 at 13 23 36" src="https://github.com/user-attachments/assets/40500171-0a15-4f48-8106-20e2827d1e99" />
 <img width="2026" height="994" alt="Screenshot 2569-09-20 at 13 24 00" src="https://github.com/user-attachments/assets/1bfd225c-14e6-41b7-840d-27744eb7da00" />
 
 <br />
-ช่องทางติดต่อ : https://saapi168.xyz/landing
-
-telegrame: https://t.me/saapi_software
